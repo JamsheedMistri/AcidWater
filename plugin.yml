@@ -1,0 +1,7 @@
+name: AcidWater
+description: Turn water into acid!
+version: 1.1
+main: com.mistri.plugin.AcidWater
+commands:
+  AcidWater:
+    description: View all help for AcidWater!
